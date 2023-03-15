@@ -11,7 +11,8 @@
 <div align="center">
 <a href="https://linkedin.com/in/nicolas-coll-ab6093ab" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-coll-ab6093ab" height="30" width="40" /></a> 
-</div>
+<h3> Soy un profesional confiable, positivo y con fuertes valores éticos. No sólo aporto mi experiencia y capacidades organizativas como valor añadido, sinó que también me implico al máximo, para cumplir con las necesidades de mis clientes. <h3>  
+</div> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicolasColl8](https://github.com/NicolasColl8)
 
